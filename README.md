@@ -1,7 +1,7 @@
 # HW-Wireframe
 This was an assignment with the following instructions: 
 
-##Instructions
+## Instructions
 
 Create a new repository in GitHub called HW-Wireframe.
 Clone this repository to your computer by following the process we went over in class.
@@ -24,7 +24,7 @@ When you finish the assignment, commit your changes with Git and push them into 
 * git commit -m "<COMMENT>"
 * git push origin master
 
-##Additional Specifications
+## Additional Specifications
 
 **Your HTML should have each of the following sections:**
 
@@ -64,7 +64,7 @@ When you finish the assignment, commit your changes with Git and push them into 
 
   * section: 495px
 
-##Helpful Hints
+## Helpful Hints
 
 For a refresher on working with Git and GitHub, consult the GitHub Supplemental Guide we sent you in class.
 Don't forget to review these concepts: float, padding, margin, display, overflow, clear and text-align.
